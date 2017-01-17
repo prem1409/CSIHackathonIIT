@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "897218998757",
+    "firebase_url": "https://csih-a99b2.firebaseio.com",
+    "project_id": "csih-a99b2",
+    "storage_bucket": "csih-a99b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897218998757:android:ebc9ac4c4ccc6434",
+        "android_client_info": {
+          "package_name": "com.example.ramesh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897218998757-36ocin4qbn18k5rethh4s3a7j0ea1576.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ramesh.myapplication",
+            "certificate_hash": "F7B85D1364374F19269867C1956C466BE5F05169"
+          }
+        },
+        {
+          "client_id": "897218998757-35797ga2a9ecl7to24irpe5vi06ugnq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwcsW8NErU48qQFLzkiWkN_i4717Dtpb0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897218998757-35797ga2a9ecl7to24irpe5vi06ugnq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
